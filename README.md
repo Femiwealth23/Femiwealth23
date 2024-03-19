@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @Femiwealth23
+- 👀 I’m interested in men and women.to know about the benefits in github.
+- i want to understand what I should know and what to do here at GitHub
+- am a little bit good at football betting and I can release 2 odd code
+- also trying to get other things that I don't know
+- you can contact me on Facebook
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Femiwealth23/Femiwealth23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
